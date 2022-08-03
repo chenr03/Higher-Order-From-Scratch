@@ -35,3 +35,5 @@ let each = foods.filter(item => item.calories > 500);
 
 console.log("Items with more Calories than 500: "  , each)
 
+
+
